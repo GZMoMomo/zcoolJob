@@ -20,3 +20,6 @@
 2. 笛卡尔积  
 3. mapreduce下的Reduce side Join  
 
+
+2022/9/28 第三天
+1.完成push数据看板
