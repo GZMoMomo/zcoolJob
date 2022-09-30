@@ -1,7 +1,8 @@
 # zcoolJob
 ### 站酷数仓开发实习生日志
 
-数据集成部分选用 aliyun 的 DataWorks + MaxCompute
+数据集成部分选用 aliyun 的 DataWorks + MaxCompute  
+MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 2022/9/26 第一天
 1. 入职
 2. 数据烟囱
