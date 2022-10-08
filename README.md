@@ -40,9 +40,10 @@ MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 
 
 2022/9/28 第三天  
-1.完成push数据看板
+1. 完成push数据看板
 
 2022/9/28 第四天  
-1.优化push数据看板，使用占位符实现自定义筛选uid  
+1. 优化push数据看板，使用占位符实现自定义筛选uid  
 
-
+2022/10/8 第六天
+1. 对ods_flow_ph进行数据清洗，创建补数据实例，创建dwd层的dwd_zcoolweb_flow_appstart_pd app启动表，清洗空字段。  
