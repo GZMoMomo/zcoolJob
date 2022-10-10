@@ -49,6 +49,7 @@ MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 1. 对ods_flow_ph进行数据清洗，创建补数据实例，创建dwd层的dwd_zcoolweb_flow_appstart_pd app启动表，清洗空字段。  
 
 2022/10/9 -2022/10/10 第八天
+知识点：mapjoin  
 1. 完成需求
    - 【站酷APP-有奖话题】sql数据需求
 2. 完成数据同步，从mysql同步到数仓ODS层
