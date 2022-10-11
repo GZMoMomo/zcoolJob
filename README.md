@@ -53,3 +53,6 @@ MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 1. 完成需求
    - 【站酷APP-有奖话题】sql数据需求
 2. 完成数据同步，从mysql同步到数仓ODS层
+
+2022/10/11 第九天
+1.数据治理与数据字典。
