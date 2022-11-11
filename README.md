@@ -85,3 +85,4 @@ MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 
 2022/11/4-11
 1. 数据库主从同步延迟问题
+2. BI报表埋点修改
