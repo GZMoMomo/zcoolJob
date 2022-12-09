@@ -6,7 +6,7 @@ MaxCompute + DataWorks + QuickBI 来建设站酷的数据体系
 ### 知识点
 #### 0. a
 1. 数据库主从同步延迟问题
-2. 数仓基础表的变更须提前通知到相关下游
+2. 数仓基础表的变更须提前通知到相关下游 （开发效率与开发规范思考）
  ![image](https://user-images.githubusercontent.com/91240419/206609027-1e4bbf7e-0ba1-4c9b-9200-b9eeac593fc0.png)
 
 #### 1.指标体系
